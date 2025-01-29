@@ -1,15 +1,15 @@
-#Admin Panel for Appointment Management
-##This project is an administrative panel built with React and TypeScript for managing appointments. The app allows users to interact with a calendar interface to view and manage appointments, including creating, updating, and canceling appointments.
+# Admin Panel for Appointment Management
+This project is an administrative panel built with React and TypeScript for managing appointments. The app allows users to interact with a calendar interface to view and manage appointments, including creating, updating, and canceling appointments.
 <br>
-###Key Features:
+# Key Features:
 <br>
-###React for building the user interface and managing component states.
-###TypeScript for strong typing and improved development experience.
-###Redux-like state management for handling actions such as fetching, updating, and canceling appointments.
-###Calendar component built with react-calendar for easy date selection and range filtering.
-###HTTP requests for interacting with a backend API (appointments stored in a database), implemented with a custom useHttp hook.
-###Data validation: Ensures all required fields are present when fetching appointment data.
-###echnologies used:
+React for building the user interface and managing component states.
+TypeScript for strong typing and improved development experience.
+Redux-like state management for handling actions such as fetching, updating, and canceling appointments.
+Calendar component built with react-calendar for easy date selection and range filtering.
+HTTP requests for interacting with a backend API (appointments stored in a database), implemented with a custom useHttp hook.
+Data validation: Ensures all required fields are present when fetching appointment data.
+### Technologies used:
 <br>
 React<br>
 TypeScript<br>
