@@ -35,7 +35,7 @@ The system allows administrators to **view, create, update, and cancel** appoint
   <img src="https://raw.githubusercontent.com/Figrac0/Admin-panel/main/src/assets/3.png" alt="Preview 3" width="800"/><br/>
 </p>
 
----
+</div>
 
 ## ⚙️ Overview
 
